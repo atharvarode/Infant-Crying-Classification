@@ -72,7 +72,7 @@ def convert_folder_to_spectrograms(input_folder_path, output_folder_path, label)
 folders = ['belly_pain', 'discomfort', 'hungry', 'tired', 'burping']
 
 # Define output folder path
-output_parent_folder_path = 'C:/Users/kalli/Documents/GitHub/Infant-Crying-Classification/Photos/'
+output_parent_folder_path = 'C:/Users/kalli/Documents/GitHub/Infant-Crying-Classification/Photos1/'
 
 # Iterate through each folder
 for folder in folders:
